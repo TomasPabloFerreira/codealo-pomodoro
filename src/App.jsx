@@ -1,5 +1,3 @@
-import { useState } from 'react'
-import logo from './logo.svg'
 import './App.css'
 import Buttons from './components/Buttons'
 import usePomodoroClock from './hooks/usePomodoroClock'
